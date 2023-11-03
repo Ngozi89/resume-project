@@ -1,9 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
 /* Colour */
 .bg-color-name-title {
     background-color: #252525;
     color: #fff;
 }
+
+.bg-color-three-reason {
+    background-color: #fff;
+
+}
+
 
 .ui-menu-color-home {
     background-color: orange;
@@ -31,6 +39,8 @@ h1, h2,h3,h4 {
     text-transform: uppercase;
 }
 
+/* General */
+
 .general-sub {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -39,6 +49,24 @@ h1, h2,h3,h4 {
 
 .inline-block {
     display: inline-block;
+}
+
+.row-table {
+    display: table;
+
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    font-family: "Eko", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 /*Header */
@@ -188,4 +216,14 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* Three Reasons */
+.three-reasons-icon  {
+    font-size: 26px;
+    color: orange;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
