@@ -44,6 +44,14 @@
     background-color: green;
 }
 
+.ui-menu-color-github {
+    background-color: blue;
+}
+
+.ui-menu-color-interests {
+    background-color: brown;
+}
+
 /* -----------------------------------------------Special padding/margins/text */
 
 h1,
