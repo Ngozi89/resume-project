@@ -387,6 +387,11 @@ button {
     background-color: #ff0000;
 }
 
+/* ---------------------------------------------Map */
+div#map {
+    min-height: 360px;
+}
+
 /* ---------------------------------------------- Media queries*/
 @media(min-width:992px) {
     .center-form {
